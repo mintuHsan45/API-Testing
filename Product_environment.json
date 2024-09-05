@@ -1,0 +1,21 @@
+{
+	"id": "daac4276-1f64-45e4-b06b-4aea47dcf564",
+	"name": "Product",
+	"values": [
+		{
+			"key": "Url",
+			"value": "https://dummyjson.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "id",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-08-19T02:43:13.693Z",
+	"_postman_exported_using": "Postman/11.8.1"
+}
